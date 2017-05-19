@@ -1,0 +1,242 @@
+[
+    {
+        "outputFile": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 43,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 52,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 52,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 26,
+                    "endOffset": 517
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 522,
+                    "endColumn": 50,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endColumn": 47,
+                    "endOffset": 616
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 621,
+                    "endColumn": 43,
+                    "endOffset": 660
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 665,
+                    "endColumn": 37,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 43,
+                    "endOffset": 742
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 747,
+                    "endColumn": 45,
+                    "endOffset": 788
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 793,
+                    "endColumn": 45,
+                    "endOffset": 834
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 839,
+                    "endColumn": 77,
+                    "endOffset": 912
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 917,
+                    "endColumn": 50,
+                    "endOffset": 963
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 968,
+                    "endColumn": 40,
+                    "endOffset": 1004
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1009,
+                    "endColumn": 38,
+                    "endOffset": 1043
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1048,
+                    "endColumn": 49,
+                    "endOffset": 1093
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1098,
+                    "endColumn": 46,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endColumn": 53,
+                    "endOffset": 1194
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1199,
+                    "endColumn": 51,
+                    "endOffset": 1246
+                },
+                "from": {
+                    "file": "/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/src/main/res/values/strings.xml"
+                }
+            }
+        ]
+    }
+]

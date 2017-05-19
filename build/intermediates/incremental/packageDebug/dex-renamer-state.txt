@@ -1,0 +1,7 @@
+#Fri May 19 20:43:49 JST 2017
+base.0=/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e0342d1bb623c9b2b4fe2705c9f17616543328b5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_68aca0bc0f23999d51fe7170399a318e1cd33e9d/classes.dex
+base.1=/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_68aca0bc0f23999d51fe7170399a318e1cd33e9d
+file.0=/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e0342d1bb623c9b2b4fe2705c9f17616543328b5/classes.dex

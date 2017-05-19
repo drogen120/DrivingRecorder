@@ -1,0 +1,111 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <org.opencv.android.JavaCameraView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/fd_activity_surface_view" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true" >
+
+        <ToggleButton
+            android:id="@+id/videotoggle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textOn="@string/videorecode_on"
+            android:textOff="@string/videorecode_off" />
+
+        <Button
+            android:id="@+id/buttonStart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:text="@string/buttonStart_text" />
+
+        <TextView
+            android:id="@+id/accel_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/acc_label"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#0000ff" />
+
+        <TextView
+            android:id="@+id/accel_rate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#0000ff" />
+
+        <TextView
+            android:id="@+id/magn_rate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#0000ff" />
+        <TextView
+            android:id="@+id/gyro_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/gyro_label"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#0000ff" />
+        <TextView
+            android:id="@+id/gyro_rate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#0000ff" />
+        <TextView
+            android:id="@+id/gps_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/gps_label"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#0000ff" />
+        <TextView
+            android:id="@+id/gps_state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#0000ff" />
+        <TextView
+            android:id="@+id/pressure_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pressure_label"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#0000ff" />
+        <TextView
+            android:id="@+id/pressure_state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#0000ff" />
+
+        <TextView
+            android:id="@+id/sensorstate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sensorstate_label"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#0000ff" />
+
+        <TextView
+            android:id="@+id/recodestate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#ff0000"  />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

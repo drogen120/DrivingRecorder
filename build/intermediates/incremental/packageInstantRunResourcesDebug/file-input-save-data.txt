@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Fri May 19 20:43:49 JST 2017
+1.base=/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/res/resources-debug.ap_
+4.file=/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/res/resources-debug.ap_/res/drawable/icon.png
+1.file=/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+2.base=/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/res/resources-debug.ap_/res/layout/face_detect_surface_view.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/res/resources-debug.ap_
+3.file=/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/res/resources-debug.ap_/res/raw/lbpcascade_frontalface.xml
+0.file=/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/res/resources-debug.ap_/resources.arsc
+4.base=/home/gpu_server2/android_workspace/face-detection/DrivingRecorder/build/intermediates/res/resources-debug.ap_

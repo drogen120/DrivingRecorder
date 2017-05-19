@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CameraBridgeViewBase"><attr format="boolean" name="show_fps"/><attr format="integer" name="camera_id">
+          <enum name="any" value="-1"/>
+          <enum name="back" value="99"/>
+          <enum name="front" value="98"/>
+       </attr></declare-styleable>
+    <string name="acc_label">　ACC:</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">DrivingRecorder</string>
+    <string name="blank"/>
+    <string name="buttonStart_text">Start</string>
+    <string name="finish_logging">Stop</string>
+    <string name="gps_label">　GPS:</string>
+    <string name="gps_ok">OK</string>
+    <string name="gps_unfix">unfix</string>
+    <string name="gyro_label">　GYRO:</string>
+    <string name="magn_label">　MAGN:</string>
+    <string name="please_calibrate">測定前に必ず、端末を∞の字に回してセンサの補正を行ってください。</string>
+    <string name="pressure_label">　LINEA:</string>
+    <string name="recoding">記録中</string>
+    <string name="saved">保存完了</string>
+    <string name="sensorstate_label">　正常</string>
+    <string name="unavailable">　Error</string>
+    <string name="videorecode_off">Video OFF</string>
+    <string name="videorecode_on">Video ON</string>
+</resources>
